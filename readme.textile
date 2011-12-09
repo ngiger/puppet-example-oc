@@ -1,0 +1,7 @@
+h1. puppet-example-oc
+
+This is an example how a Medelexis Operation Center can add some added stuff.
+
+Here we customize it just a little bit for my use.
+
+Copyright (c) 2011 by Niklaus Giger <niklaus.giger@member.fsf.org>
